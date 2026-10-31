@@ -19,9 +19,7 @@ This repository contains an end-to-end Machine Learning pipeline to predict cust
    ```bash
    pip install pandas scikit-learn matplotlib seaborn openpyxl
 
-(i) Run the Jupyter Notebook to view the EDA and model evaluation.
-
-(ii)Execute the bonus inference script in the terminal to see a real-time prediction simulation:
-
-Bash
-python bonus.py
+2. Run the Jupyter Notebook to view the EDA and model evaluation.
+3. Execute the bonus inference script in the terminal to see a real-time prediction simulation:
+   ```bash
+   python bonus.py
